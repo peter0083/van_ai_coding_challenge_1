@@ -4,7 +4,7 @@
 
 **Date: 5pm 17 September 2018**
 
-submission: [modified jupyter notebook](https://github.com/peter0083/learn_image_classification/blob/master/src/image_classification_part_1.ipynb)
+submission: [modified jupyter notebook](https://github.com/peter0083/van_ai_coding_challenge_1/blob/master/src/image_classification_part_1.ipynb)
 
 This submission is a tribute to the late artist [Chen Uen 鄭問](https://en.wikipedia.org/wiki/Chen_Uen) who passed away in 2017. His work was influencial in East Asia. A model was trained to differentiate his illustration of  illustration of the novel: *The Romance of the Three Kingdoms* and another famous artist [Nagano Tsuyoshi 長野 剛](https://en.wikipedia.org/wiki/Tsuyoshi_Nagano) who is well known for his character illustration of the same novel.
 
